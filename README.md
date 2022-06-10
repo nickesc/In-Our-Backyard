@@ -10,9 +10,9 @@ In Our Backyard has two parts:
    - source: [`nickesc/PhotogrammetryVideoInstructions`](https://github.com/nickesc/PhotogrammetryVideoInstructions)
 3. [*In Our Backyard: a Generational Retrospective*](https://www.youtube.com/watch?v=V9Pu-3cldVE)
 
-The project was a colaboration with my parents, where I asked them to select objects from our home
+The project was a collaboration with my parents, where I asked them to select objects from our home
 that made them think about me. The plan was to create point-cloud visualizations of those objects,
-but in order to do that I needed captures of the objects. The easiest wa for them to do that was
+but in order to do that I needed captures of the objects. The easiest way for them to do that was
 through video capture, but no straightforward guides for that specific process existed, and I 
 wasn't there to help them do it in person. So, I had to create [the guide](https://nickesc.github.io/PhotogrammetryVideoInstructions) for them. It contains 
 thourough directions for how to select and capture an object with video for photogrammetry with
