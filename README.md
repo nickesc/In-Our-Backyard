@@ -1,4 +1,7 @@
 # In Our Backyard
+
+###### by N. Escobar
+
 A collection of products from the project *In Our Backyard*. Includes the text guide and the video.
 
 In Our Backyard has two parts:
